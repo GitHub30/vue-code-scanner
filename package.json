@@ -1,6 +1,6 @@
 {
   "name": "vue-code-scanner",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Vue Code Scanner, from zxing-js library",
 
   "main": "dist/CodeScanner.umd.js",
